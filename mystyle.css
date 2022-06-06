@@ -10,7 +10,7 @@ body {
 	color: white;
 }
 h2::first-letter {
-	color: black;
+	color: green;
 	font-size: 150%
 }
 ::selection {
