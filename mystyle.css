@@ -1,0 +1,23 @@
+
+body {
+	fort-size: 24px;
+	padding: 24px;
+	background-color: white;
+	color: black;
+}
+.dark {
+	background-color: black;
+	color: white;
+}
+h2::first-letter {
+	color: black;
+	font-size: 150%
+}
+::selection {
+	color: white;
+	background: green;
+}
+.line5 {
+	font-family: 'Brush Script MT", cursive;
+}
+
